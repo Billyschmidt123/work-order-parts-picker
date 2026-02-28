@@ -1,0 +1,5 @@
+"homepage": "https://yourusername.github.io/work-order-parts-picker",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
